@@ -1,0 +1,9 @@
+com\library\DemoApplicationTest$Calculate.class
+com\library\controllers\BookControllerTestIntegration.class
+com\library\student\StudentControllerTestIntegration.class
+com\library\student\StudentControllerTest.class
+com\library\student\StudentControllerTestIntegration2.class
+com\library\student\StudentRepositoryTest.class
+com\library\student\StudentServiceTest.class
+com\library\DemoApplicationTest.class
+com\library\controllers\BookControllerTest.class
